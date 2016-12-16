@@ -2,6 +2,7 @@
 [Bb]in
 [Tt]emp
 [Tt]humbs.db
+*.*~
 *.user
 *.suo
 *.[Cc]ache
